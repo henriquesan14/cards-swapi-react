@@ -1,0 +1,8 @@
+body{
+  height:100vh;
+  background-color: black;
+}
+
+h1, p {
+  font-family: Lato;
+}
